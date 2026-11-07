@@ -1,0 +1,4 @@
+le chat Katze --
+le chien Hund --
+la maison Haus --
+la voiture Auto Fahrzeug

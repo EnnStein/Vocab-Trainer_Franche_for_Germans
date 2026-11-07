@@ -1,0 +1,1 @@
+files/files/Woerterbuch.txt files/files/Present.txt files/files/Passe_Compose.txt files/files/Imparfait.txt files/files/Futur.txt files/files/Conditionnel.txt files/files/Subjontif.txt
